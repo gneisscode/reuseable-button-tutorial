@@ -13,7 +13,10 @@ npm install class-variance-authority tailwindcss tailwind-merge
 
 ### Importing
 
+```
 import Button from '/src/components/Button/Button';
+
+```
 
 ### Example
 
