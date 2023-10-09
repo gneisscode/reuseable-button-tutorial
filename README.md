@@ -33,9 +33,10 @@ onClick: (event: React.MouseEvent<HTMLButtonElement>) => void - Callback functio
 
 ## Variants
 
-The Button component supports different styles using the style prop:
+The Button component supports two basic styles using the style prop:
 
 filled: Filled background with white text.
+
 outlined: Outlined button with blue border and text.
 
 
