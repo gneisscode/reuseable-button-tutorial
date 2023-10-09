@@ -27,7 +27,9 @@ import Button from '/src/components/Button/Button';
 
 ## Props
 children: JSX.Element | React.ReactNode - Content of the button.
+
 className: string - Additional class names for styling.
+
 onClick: (event: React.MouseEvent<HTMLButtonElement>) => void - Callback function for click events.
 
 
